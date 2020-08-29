@@ -1,24 +1,24 @@
-- Chavdai40
+## Chavdai40
   - switches:
     - soldered: Aliaz Silent * 42
   - keycaps: 
-    - KBDFANS Italic
+    - KBDFANS XDA Italic
   - key_pattern: us (Optimized for Mac)
 
-- kbd67mkII
+## kbd67mkII
   - switches:
     - socketed: sakurios(62g linear)*65
   - keycaps: 
     - MT3 Serika
   - key_pattern: us
 
-- choco60(white)
+## choco60(white)
   - switches:
     - not yet
   - keycaps: not yet
   - key_pattern: us
 
-- cocoa40
+## cocoa40
   - switches:
     - soldered: gateron 35g * 30
     - soldered: Sakurios 62g * 10
@@ -26,7 +26,7 @@
   - key_pattern: us
   - TRRS_Cable: nilpo cable
 
-- bm43a
+## bm43a
   - switches:
     - soldered: Kailf speed pink clicky
   - keycaps: DSA9009
